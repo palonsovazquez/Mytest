@@ -24,10 +24,10 @@ System.out.println("Hola Mundo")
 
 ###Con tres asteriscos creas una cabecera h3.
 
-*listas
-*con 
-*puntos
+* listas
+* con 
+* puntos
 
 
-1. 1 pasos
-2. 2 pasos
+1.  paso 1
+2.  paso 2
