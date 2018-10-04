@@ -18,11 +18,11 @@ para poner codigo tres comillas francesas
 System.out.println("Hola Mundo")
 ```
 
-#Con un asterisco creas una cabecera h1.
+# Con un asterisco creas una cabecera h1.
 
-##Con dos asteriscos creas una cabecera h2.
+## Con dos asteriscos creas una cabecera h2.
 
-###Con tres asteriscos creas una cabecera h3.
+### Con tres asteriscos creas una cabecera h3.
 
 * listas
 * con 
