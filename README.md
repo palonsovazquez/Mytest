@@ -4,9 +4,14 @@ este proyecto es de prueba.
 
 para hacer un parrafo no hace falta nada.
 
-para poner una palabra en *negrita* solo necesitas dos asteriscos.
+para poner una palabra en **_ negrita _** solo necesitas dos asteriscos.
+``` 
+**_ texto _**
 
-para poner una palabra en _cursiva_ solo necesitas la barra baja.
+```
+
+para poner una palabra en __cursiva__ solo necesitas la barra baja.
+
 
 para poner una [url](http://github.com) .
 
